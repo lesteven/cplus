@@ -3,7 +3,7 @@
 #include "farewell.h"
 
 int main() {
-    hello();
+    hello(44);
     goodbye();
     farewell();
 }

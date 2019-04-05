@@ -1,0 +1,5 @@
+how to compile
+
+    - g++ -c <filename>
+        - eg, g++ -c hello.cpp
+    - g++ -I ./farewell -o main main.cpp farewell.o goodbye.o hello.o
